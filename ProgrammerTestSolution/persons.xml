@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<persons>
+  <person>
+    <id></id>
+    <firstname>Jane</firstname>
+    <lastname>Smith</lastname>
+    <address>
+      <id></id>
+      <name>5455 Apache Trail</name>
+      <city>Queen Creek</city>
+      <postaabbrev>AZ</postaabbrev>
+      <postalcode>85243</postalcode>
+    </address>
+  </person>
+</persons>
